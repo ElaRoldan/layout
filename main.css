@@ -1,0 +1,53 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.feature {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+#turtles {
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+#car.feature {
+  padding-top: 50px;
+}
+
+#pricing {
+  padding-top: 50px;
+  padding-bottom: 20px;  
+}
+
+.pricing_features{
+  display: inline-block;
+  text-align: center;
+}
+
+.pricing_features li {
+  text-align: left;
+}
+
+.main-title {
+  text-align: center;
+}
+
